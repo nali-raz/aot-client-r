@@ -3,7 +3,7 @@
 export(ls.nodes)
 export(ls.observations)
 export(ls.projects)
-export(ls.raw_observations)
+#export(ls.raw_observations)
 export(ls.sensors)
 export(stat.node)
 export(stat.project)
